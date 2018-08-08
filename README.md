@@ -1,1 +1,2 @@
-# Web-Messenger
+# Web-messenger
+Live web messeging application.
