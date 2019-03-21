@@ -12,5 +12,3 @@ Web messenger application which enables individuals from across the world to cha
 6. Create running configurations scripts for build and starting the application.
 7. Run the application.
 8. Visit http://localhost:3000 to enjoy your new app
-
-A working copy of this project could be found here: <a href="http://messengerapp-env.t6f5q2462m.us-west-2.elasticbeanstalk.com">Messenger application</a></p>
