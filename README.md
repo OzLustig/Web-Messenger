@@ -1,5 +1,7 @@
 # Web Messenger
 
+![alt text](https://i.imgur.com/LsabCwB.png)
+
 Web messenger application which enables individuals from across the world to chat with eachother in privacy.
 
 ## Getting Started
