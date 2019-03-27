@@ -14,3 +14,5 @@ Web messenger application which enables individuals from across the world to cha
 6. Create running configurations scripts for build and starting the application.
 7. Run the application.
 8. Visit http://localhost:3000 to enjoy your new app
+
+For a working deployment of this application please visit: https://messenger-app1.herokuapp.com
