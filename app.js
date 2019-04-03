@@ -11,7 +11,7 @@ var messageRoutes = require('./routes/messages');
 var userRoutes = require('./routes/user');
 
 var app = express();
-mongoose.connect(/*Your mongoDB id goes here*/);
+mongoose.connect('localhost');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
